@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navbar{
+        display: flex;
+        flex-direction: row;
+        background-color: violet;
+        height: 70px;
+        padding: 20px;
+        justify-content: center;
+        width: 100%;
+    
+}
+.navbutton button{
+    text-align: center;
+    color: blue;
+    outline: none;
+    padding: 15px;
+    border: none;
+    background-color: violet;
+}
+h3{
+    color: blue;
+    text-align: start;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.image img{
+    width: 65%;
+    height: 60%;
+}
+.image{
+    text-align: start;
+    margin-top: 10px;
+}
+.work{
+    margin-left: 35%;
+    width: 50%
+}
+.text{
+    text-align: start;
+    margin-top: 20px;
+    width: 65%;
+}
+h1{
+    text-align: start;
+    margin-top: 20px;
+}
